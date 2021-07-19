@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=Jiseon%20Baek&fontSize=80&fontAlignY=45&desc=👩‍💻%20Front-end%20Developer&descSize=23&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=320&section=header&text=Jiseon%20Baek&fontSize=80&fontAlignY=45&desc=👩‍💻%20Front-end%20Developer&descSize=23&animation=twinkling)
 
 <p align='center'> Tech Stack🛠 </p>
 <p align='center'>
