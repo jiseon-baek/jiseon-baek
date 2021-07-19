@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=Jiseon%20Baek&fontSize=80&fontAlignY=45&desc=👩‍💻%20Front-end%20Developer&descSize=23&animation=twinkling)
 
-## _The Last Markdown Editor, Ever_
-
+## Tech Stack🛠
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
