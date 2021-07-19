@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=350&section=header&text=Jiseon%20Baek&fontSize=90&&fontAlign=69&&fontAlignY=45&desc=Front-end%20Developer&descAlign=85&descSize=23&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=350&section=header&text=Jiseon%20Baek&fontSize=90&&fontAlign=71&&fontAlignY=45&desc=Front-end%20Developer&descAlign=84&descSize=23&animation=twinkling)
 
 ## _The Last Markdown Editor, Ever_
 
